@@ -1,0 +1,14 @@
+Name,Type,Size (bytes)
+pickle,directory,4390
+processed_data.json,file,1298
+processed_data.pickle,file,526
+result.json,file,1045
+result.pickle,file,424
+result.txt,file,232
+user_data.csv,file,183
+user_data.json,file,441
+user_data.pickle,file,241
+pickle\testdir1,directory,0
+testfile1.txt,file,0
+pickle\testdir1\testdir2,directory,0
+testfile2.txt,file,0
