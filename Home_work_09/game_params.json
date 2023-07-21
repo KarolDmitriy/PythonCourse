@@ -1,0 +1,30 @@
+{
+    "target_number": 50,
+    "num_attempts": 5,
+    "result": true
+}
+{
+    "target_number": 50,
+    "num_attempts": 5,
+    "result": true
+}
+{
+    "target_number": 50,
+    "num_attempts": 5,
+    "result": true
+}
+{
+    "target_number": 50,
+    "num_attempts": 5,
+    "result": true
+}
+{
+    "target_number": 50,
+    "num_attempts": 5,
+    "result": false
+}
+{
+    "target_number": 50,
+    "num_attempts": 5,
+    "result": true
+}
