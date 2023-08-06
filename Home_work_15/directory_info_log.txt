@@ -1,0 +1,7 @@
+2023-08-06 10:47:51,050 - INFO - Name: .git, Type: Directory, Parent: git
+2023-08-06 10:47:51,050 - INFO - Name: hello, Type: File (.md), Parent: git
+2023-08-06 10:50:38,381 - INFO - Name: .git, Type: Directory, Parent: repo
+2023-08-06 10:50:38,382 - INFO - Name: .gitignore, Type: File (), Parent: repo
+2023-08-06 10:50:38,382 - INFO - Name: config, Type: File (), Parent: repo
+2023-08-06 10:50:38,382 - INFO - Name: exemple, Type: File (), Parent: repo
+2023-08-06 10:50:38,382 - INFO - Name: readme, Type: File (.md), Parent: repo

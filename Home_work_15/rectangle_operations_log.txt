@@ -1,0 +1,1 @@
+2023-08-06 11:08:30,340 - ERROR - Error: could not convert string to float: 'abc'

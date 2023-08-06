@@ -1,0 +1,1 @@
+2023-08-05 13:34:05,810 - ERROR - Division by zero error: division by zero

@@ -1,0 +1,2 @@
+2023-08-05 13:45:13,386 - INFO - Game parameters: {'target_number': 42, 'num_attempts': 5, 'result': None}
+2023-08-05 13:45:13,386 - INFO - Game parameters: {'target_number': 78, 'num_attempts': 7, 'result': None}

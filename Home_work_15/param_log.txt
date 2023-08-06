@@ -1,0 +1,12 @@
+2023-08-05 13:56:19,650 - INFO - Game parameters: {
+    "target_number": 42,
+    "num_attempts": 10,
+    "result": null
+}
+2023-08-05 13:58:44,148 - INFO - Function: game_function
+2023-08-05 13:58:44,148 - INFO - Arguments: (42, 10), {}
+2023-08-05 13:58:44,148 - INFO - Game parameters: {
+    "target_number": 42,
+    "num_attempts": 10,
+    "result": null
+}

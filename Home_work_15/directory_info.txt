@@ -1,0 +1,5 @@
+Name: .git, Type: Directory, Parent: repo
+Name: .gitignore, Type: File (), Parent: repo
+Name: config, Type: File (), Parent: repo
+Name: exemple, Type: File (), Parent: repo
+Name: readme, Type: File (.md), Parent: repo
